@@ -1,0 +1,6 @@
+@AgriHubTB_HostAddress = http://localhost:5047
+
+GET {{AgriHubTB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
